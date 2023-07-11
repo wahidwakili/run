@@ -190,7 +190,7 @@ logo = """\033[1;97m
        :: :  : :     :   : :   :   : :  :    :: :  :   
                                                   
  \033[1;97m[+]-------------------------------------------------------
- \033[1;97m[+] AUTHOR     : \033[  Wahid
+ \033[1;97m[+] AUTHOR     : \033[ Wahid
  \033[1;97m[+] TELEGRAM   : \033[1;97mt.me/WAHID_Hack420
  \033[1;97m[+] FACEBOOK   : \033[1;97mfacebook.com/Wahid
  \033[1;97m[+] STATUS     : \033[97;1mTrial
@@ -581,7 +581,7 @@ def afgan():
                                 ids = code+psx
                             
                             
-                                passlist = [psx,ids,psx[1:],'Afghan123','Afghanistan','afghan12345', 'afghanistan', 'afghan1234', ' kabul123', '۱۲۳۴۵۶','khan123']
+                                passlist = [psx,ids,psx[1:],','Afghan123','۱۲۳۴۵۶']
                             
                                 AWM.submit(rndm2,ids,passlist)
                 print('\033[1;37m')
