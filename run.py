@@ -581,7 +581,7 @@ def afgan():
                                 ids = code+psx
                             
                             
-                                passlist = [psx,ids,psx[1:],','Afghan123','۱۲۳۴۵۶']
+                                passlist = [psx,ids,psx[1:],'Afghan123','۱۲۳۴۵۶']
                             
                                 AWM.submit(rndm2,ids,passlist)
                 print('\033[1;37m')
